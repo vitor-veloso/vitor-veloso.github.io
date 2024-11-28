@@ -54,7 +54,7 @@ main {
 }
 
 .projeto img {
-    width: 50%;
+    width: "500";
     height: auto;
     margin-bottom: 1rem;
 }
